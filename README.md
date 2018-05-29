@@ -15,7 +15,7 @@ set(CN_CURRENCY_TICKER "XFC")
 **3. Set symbolic link to coin sources at the same level as `src`. For example:**
 
 ```
-ln -s ../cryptonote cryptonote
+ln -s ../typhon cryptonote
 ```
 
 Alternative way is to create git submodule:
